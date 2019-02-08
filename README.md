@@ -1,7 +1,7 @@
-﻿# svg-chart
+﻿# globe
 
-Responsive SVG chart built with React+SCSS+Webpack for drawing data from API (temporarily mocked-up)
-
+ Earth model built with ReactJS/styled-components/Webpack/d3/ThreeJS with scale-to-country feature.
+ 
 ![graph](/screenshots/pic1.jpg)
 
 ![graph](/screenshots/pic2.jpg)
